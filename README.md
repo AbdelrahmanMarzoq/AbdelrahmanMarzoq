@@ -8,7 +8,7 @@ Abdelrhman is a third-year student in the Communication and Electronics Engineer
 
 * 🌍  I'm based in Mansoura
 * ✉️  You can contact me at [abdelrahmann595@gmail.com](mailto:abdelrahmann595@gmail.com)
-* 🧠  I'm learning Interfacing with Microcontroller
+* 🧠  I'm now Learning FreeRTOS
 * 🤝  I'm open to collaborating on Robotic projects
 
 ### Skills
